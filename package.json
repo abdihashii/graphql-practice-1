@@ -1,0 +1,19 @@
+{
+  "name": "graph-ql-web-dev-simplified-tutorial",
+  "version": "1.0.0",
+  "description": "Practicing GraphQL using web dev simplified YouTube video",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdihashii/graphql-practice-1.git"
+  },
+  "author": "Abdirahman Haji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdihashii/graphql-practice-1/issues"
+  },
+  "homepage": "https://github.com/abdihashii/graphql-practice-1#readme"
+}
