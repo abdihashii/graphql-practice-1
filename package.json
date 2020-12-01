@@ -4,7 +4,8 @@
   "description": "Practicing GraphQL using web dev simplified YouTube video",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/abdihashii/graphql-practice-1/issues"
   },
-  "homepage": "https://github.com/abdihashii/graphql-practice-1#readme"
+  "homepage": "https://github.com/abdihashii/graphql-practice-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
 }
